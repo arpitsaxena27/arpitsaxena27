@@ -1,62 +1,79 @@
-Here’s a **professional** GitHub Profile README incorporating your **Walmart Sparkathon project** and other details:  
+Here's the updated **GitHub Profile README** with **Walmart Sparkathon** under projects instead of achievements, keeping it **professional and visually engaging**:  
 
 ---
 
-# 👋 Hi, I'm **Arpit Kumar Saxena**  
-🚀 **Full-Stack Developer** | 🎯 **SDET Enthusiast** | 🤖 **AI & ML Learner**  
+# 🚀 Arpit Kumar Saxena  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arpit-saxena-92988524b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/arpitsaxena27)  
-📧 **Email:** [arpitsaxena2703@gmail.com](mailto:arpitsaxena2703@gmail.com)  
+**Full-Stack Developer | SDET Enthusiast | AI & ML Learner**  
+
+💡 Passionate about solving real-world problems through **technology & innovation**.  
+👨‍💻 Currently exploring **Machine Learning & AI-driven applications**.  
+🔍 Looking for **SDET & Full-Stack Development** opportunities.  
+
+📬 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-saxena-92988524b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/arpitsaxena27)  
+[![Email](https://img.shields.io/badge/Email-arpitsaxena2703@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:arpitsaxena2703@gmail.com)  
 
 ---
 
 ## 🎓 Education  
 
 📌 **B.Tech in Computer Science** *(2022 - Present)*  
-🎓 *Graphic Era University, Dehradun* | **GPA:** 8.54/10  
-
-📌 **I.S.C (XII) - 2021**  
-🏫 *G.P.M. College* | **80.60%**  
+🎓 *Graphic Era University, Dehradun* | **GPA:** 8.54/10   
 
 ---
 
 ## 🏆 Achievements  
 
-🏅 **Microsoft SEFA Program** – Ranked **6th among 1000 students** in my college.  
-
-🏅 **Walmart Sparkathon – Future of Retail** *(2024)*  
-- **Developed a responsive retail solution** using **Dijkstra’s Algorithm** for **in-store navigation**.  
-- **Automated checkout process**, deducting the billed amount when customers exit the store.  
-- **Tech Stack:** `React.js` | `Tailwind CSS` | `MongoDB` | `Express.js`  
+🏅 **Microsoft SEFA Program** – **Ranked 6th** among 1000+ students at my college.  
 
 ---
 
 ## 🔥 Featured Projects  
 
-### 📌 [Pokedexplorer](https://github.com/arpitsaxena27/Pokedexplorer) *(March 2023)*  
-A **Pokedex Web App** built with React.js, Tailwind CSS & DaisyUI.  
-🛠️ **Tech Stack:** `React.js` | `Tailwind CSS` | `Axios` | `Local Storage`  
+### 📌 [Walmart Sparkathon – Future of Retail](https://github.com/arpitsaxena27/Walmart-Sparkathon) *(2024)*  
+🚀 **Built a smart in-store navigation & checkout system** using:  
+- **Dijkstra’s Algorithm** for optimized in-store paths.  
+- **Automated billing** with real-time product deduction.  
+- **Tech Stack:** `React.js` | `MongoDB` | `Express.js` | `Tailwind CSS`  
 
-### 📌 [AI-Powered Question Generation](https://github.com/arpitsaxena27/AI-Question-Generator) *(Dec 2024 - Jan 2025)*  
-Engineered an **AI-driven system** to generate questions from large PDFs using **LLMs**.  
-🛠️ **Tech Stack:** `Python` | `Flask` | `Transformers` | `T5 Model`  
+### 📌 [Pokedexplorer](https://github.com/arpitsaxena27/Pokedexplorer) – A Pokedex Web App *(Mar 2023)*  
+🔹 **Tech Stack:** `React.js` | `Tailwind CSS` | `Axios` | `Local Storage`  
 
-### 📌 [Forecast Fusion](https://github.com/arpitsaxena27/ForecastFusion) *(Dec 2023 - Jan 2024)*  
-A **real-time weather app** with API integration for live updates.  
-🛠️ **Tech Stack:** `HTML` | `Tailwind CSS` | `JavaScript`  
+### 📌 [AI-Powered Question Generator](https://github.com/arpitsaxena27/AI-Question-Generator) *(Dec 2024 - Jan 2025)*  
+🔹 **Built an AI-driven system** to generate questions from large PDFs using **T5 Transformers**.  
+🔹 **Tech Stack:** `Python` | `Flask` | `Transformers` | `SQuAD 2.0`  
 
-### 📌 [Task Master](https://github.com/arpitsaxena27/TaskMaster) *(Apr 2024)*  
-A **To-Do List App** with Cypress testing for robustness.  
-🛠️ **Tech Stack:** `React.js` | `Tailwind CSS` | `Cypress`  
+### 📌 [Forecast Fusion](https://github.com/arpitsaxena27/ForecastFusion) – Real-Time Weather App *(Dec 2023 - Jan 2024)*  
+🔹 **Tech Stack:** `HTML` | `Tailwind CSS` | `JavaScript` | `Weather API`  
+
+### 📌 [Task Master](https://github.com/arpitsaxena27/TaskMaster) – To-Do App with Cypress Testing *(Apr 2024)*  
+🔹 **Tech Stack:** `React.js` | `Tailwind CSS` | `Cypress`  
 
 ---
 
-## 🛠 Technical Skills  
+## 🛠 Tech Stack  
 
-🔹 **Languages:** JavaScript, C++, Java, Python, SQL, C, HTML, CSS  
-🔹 **Frameworks & Tools:** React.js, Node.js, Flask, Cypress, MongoDB, Tailwind CSS, Git, LaTeX  
-🔹 **Core Concepts:** Data Structures & Algorithms, OOPs, DBMS, OS  
+💻 **Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
+
+🛠 **Frameworks & Tools:**  
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)  
+
+📌 **Core Knowledge:**  
+- **Data Structures & Algorithms**  
+- **Object-Oriented Programming (OOPs)**  
+- **Database Management Systems (DBMS)**  
+- **Operating Systems (Basics)**  
 
 ---
 
@@ -72,16 +89,14 @@ A **To-Do List App** with Cypress testing for robustness.
 
 ## 📊 GitHub Stats  
 
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitsaxena27&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsaxena27&layout=compact&theme=tokyonight)  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arpitsaxena27&show_icons=true&theme=tokyonight" alt="Arpit's GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsaxena27&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>  
 
 ---
 
-### 🚀 Let's Connect!  
-💡 Open to collaborations in **Full-Stack Development, AI, and SDET**.  
+## 🤝 Let's Collaborate!  
 
----
-
-### 📌 How to Use This  
-- Save this as `README.md` in your profile repository (`arpitsaxena27/arpitsaxena27`).  
-- Your GitHub profile will now display this **professionally crafted** README. 🚀  
+💡 Open to **Software Developement Roles, Full-Stack Development, AI/ML, and SDET** projects.  
