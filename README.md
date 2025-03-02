@@ -1,4 +1,4 @@
-Here's the updated **GitHub Profile README** with **Walmart Sparkathon** under projects instead of achievements, keeping it **professional and visually engaging**:  
+
 
 ---
 
