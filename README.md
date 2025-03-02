@@ -53,26 +53,26 @@
 
 ### 💻 Languages  
 <p align="left">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />  
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />  
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />  
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>  
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>  
 </p>  
 
 ### 🛠 Frameworks & Tools  
 <p align="left">
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />  
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />  
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />  
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />  
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />  
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />  
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />  
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />  
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" height="25"/>  
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25"/>  
 </p>  
 
 ### 📌 Core Knowledge  
