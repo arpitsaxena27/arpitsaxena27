@@ -93,5 +93,3 @@
 ## 🤝 Let's Collaborate!  
 
 💡 Open to **Software Development Roles, Full-Stack Development, AI/ML, and SDET** projects.  
-
-This version is **visually engaging, structured, and professional**! Let me know if you need any more refinements! 😊
