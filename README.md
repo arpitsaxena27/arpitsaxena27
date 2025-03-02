@@ -4,11 +4,11 @@
 
 # 🚀 Arpit Kumar Saxena  
 
-**Full-Stack Developer | SDET Enthusiast | AI & ML Learner**  
+**Full-Stack Developer(MERN) | Problem Solving and Algorithms | AI & ML Learner**  
 
 💡 Passionate about solving real-world problems through **technology & innovation**.  
 👨‍💻 Currently exploring **Machine Learning & AI-driven applications**.  
-🔍 Looking for **SDET & Full-Stack Development** opportunities.  
+🔍 Looking for **SDE & Full-Stack Development** opportunities.  
 
 📬 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-saxena-92988524b/)  
@@ -20,7 +20,7 @@
 ## 🎓 Education  
 
 📌 **B.Tech in Computer Science** *(2022 - Present)*  
-🎓 *Graphic Era University, Dehradun* | **GPA:** 8.54/10   
+🎓 *Graphic Era University, Dehradun* 
 
 ---
 
@@ -36,7 +36,7 @@
 🚀 **Built a smart in-store navigation & checkout system** using:  
 - **Dijkstra’s Algorithm** for optimized in-store paths.  
 - **Automated billing** with real-time product deduction.  
-- **Tech Stack:** `React.js` | `MongoDB` | `Express.js` | `Tailwind CSS`  
+- **Tech Stack:** `React.js` | `MongoDB` | `Express.js` | `Tailwind CSS` | `Data Structures` 
 
 ### 📌 [Pokedexplorer](https://github.com/arpitsaxena27/Pokedexplorer) – A Pokedex Web App *(Mar 2023)*  
 🔹 **Tech Stack:** `React.js` | `Tailwind CSS` | `Axios` | `Local Storage`  
@@ -75,17 +75,6 @@
 - **Database Management Systems (DBMS)**  
 - **Operating Systems (Basics)**  
 
----
-
-## 💼 Experience & Roles  
-
-👨‍💻 **Technical Team Member @ ACM-GEU**  
-📌 Contributed to organizing and developing tech events.  
-
-👨‍💻 **Walmart Sparkathon - Future of Retail (2024)**  
-📌 Developed a **smart in-store navigation & automated checkout system**.  
-
----
 
 ## 📊 GitHub Stats  
 
